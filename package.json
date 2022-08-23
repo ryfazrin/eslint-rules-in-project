@@ -1,0 +1,26 @@
+{
+  "name": "eslint-rules-in-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^8.0.3",
+    "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "-": "0.0.1",
+    "@types/eslint": "^8.4.6",
+    "@types/glob": "^7.2.0",
+    "@types/node": "^18.7.11",
+    "@typescript-eslint/eslint-plugin": "^5.34.0",
+    "@typescript-eslint/parser": "^5.34.0",
+    "eslint": "^8.22.0",
+    "typescript": "^4.7.4"
+  }
+}
